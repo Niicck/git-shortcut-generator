@@ -4,6 +4,6 @@ Easily add all of the git keyboard shortcuts from "Git Immersion Labs" automatic
 Pull the repo, make sure git-shortcut-generator.sh is in your working directory, 
 and run the shell script by typing in:
 
-    "source git-shortcut-generator.sh"
+    source git-shortcut-generator.sh
 
 And you're good to go.
